@@ -20,9 +20,9 @@ venvs/
 .mypy_cache/
 
 # Data files
-*.csv
-*.xlsx
-*.xls
+# *.csv
+# *.xlsx
+# *.xls
 
 # Model files
 *.pkl
